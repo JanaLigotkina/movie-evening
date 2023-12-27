@@ -1,13 +1,12 @@
+#!/usr/bin/env ruby
+
+require "rexml/document"
+
 class Film
-	attr_reader :name, :director, :show_year
+	attr_reader :director, :variants_film
 
-	def initialize(name, director, show_year)
-		@name = name
+	def initialize(director, variants_film)
 		@director = director
-		@show_year = show_year
-	end 	
-
-	def full_name_film
-		return "#{@director} - #{@name} (#{@show_year})"
-	end	
+		@variants_film = variants_film
+	end
 end 

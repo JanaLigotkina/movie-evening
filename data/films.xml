@@ -1,0 +1,74 @@
+<films>
+  <film>
+    <director>Stanley Kubrick</director>
+    <variants_film>
+      <variant_film>2001: A Space Odyssey (1968)</variant_film>
+      <variant_film>A Clockwork Orange (1971)</variant_film>
+      <variant_film>The Shining (1980)</variant_film>
+      <variant_film>Full Metal Jacket (1987)</variant_film>
+    </variants_film>
+  </film>
+  <film>
+    <director>Martin Scorsese</director>
+    <variants_film>
+      <variant_film>Taxi Driver (1976)</variant_film>
+      <variant_film>Raging Bull (1980)</variant_film>
+      <variant_film>Goodfellas (1990)</variant_film>
+      <variant_film>The Departed (2006)</variant_film>
+    </variants_film>
+  </film>
+  <film>
+    <director>Christopher Nolan</director>
+    <variants_film>
+      <variant_film>Memento (2000)</variant_film>
+      <variant_film>The Dark Knight (2008)</variant_film>
+      <variant_film>Inception (2010)</variant_film>
+      <variant_film>Dunkirk (2017)</variant_film>
+    </variants_film>
+  </film>
+  <film>
+    <director>Steven Spielberg</director>
+    <variants_film>
+      <variant_film>Jaws (1975)</variant_film>
+      <variant_film>E.T. the Extra-Terrestrial (1982)</variant_film>
+      <variant_film>Jurassic Park (1993)</variant_film>
+      <variant_film>Saving Private Ryan (1998)</variant_film>
+    </variants_film>
+  </film>
+  <film>
+    <director>Quentin Tarantino</director>
+    <variants_film>
+      <variant_film>Pulp Fiction (1994)</variant_film>
+      <variant_film>Kill Bill: Vol. 1 (2003)</variant_film>
+      <variant_film>Inglourious Basterds (2009)</variant_film>
+      <variant_film>Django Unchained (2012)</variant_film>
+    </variants_film>
+  </film>
+  <film>
+    <director>David Fincher</director>
+    <variants_film>
+      <variant_film>Se7en (1995)</variant_film>
+      <variant_film>Fight Club (1999)</variant_film>
+      <variant_film>The Social Network (2010)</variant_film>
+      <variant_film>Gone Girl (2014)</variant_film>
+    </variants_film>
+  </film>
+  <film>
+    <director>Clint Eastwood</director>
+    <variants_film>
+      <variant_film>Unforgiven (1992)</variant_film>
+      <variant_film>Million Dollar Baby (2004)</variant_film>
+      <variant_film>Mystic River (2003)</variant_film>
+      <variant_film>Gran Torino (2008)</variant_film>
+    </variants_film>
+  </film>
+  <film>
+    <director>Alfred Hitchcock</director>
+    <variants_film>
+      <variant_film>Pyscho (1960)</variant_film>
+      <variant_film>Rear Window (1954)</variant_film>
+      <variant_film>Vertigo (1958)</variant_film>
+      <variant_film>North by Northwest (1959)</variant_film>
+    </variants_film>
+  </film>
+</films>
